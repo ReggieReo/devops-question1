@@ -1,0 +1,7 @@
+node_modules/
+scripts/terraform/terraform.tfstate.backup
+scripts/terraform/terraform.tfstate
+scripts/terraform/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.117.0/darwin_arm64/terraform-provider-azurerm_v3.117.0_x5
+todo.txt
+*.bak
+mock-storage/storage
